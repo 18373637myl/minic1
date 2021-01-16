@@ -1,0 +1,23 @@
+let a : int = 15.6;
+fn temp(a : int, const b: double) -> int{
+    const c :int = a+b;
+    15+12;
+    (15-12.5)*(f(x + g(x,y, h1(z))));
+    const k: double=1.20;
+    if a ==b {
+        if(c+d==e){
+            return 1;
+        }
+        else{
+            {{;}}
+            ;
+        }
+    }
+    else{
+        while(1){
+            const t : double= 15.35e2;
+        }
+    }
+    return;
+}
+const t : double= 15.35e-2;

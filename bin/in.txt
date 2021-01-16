@@ -1,0 +1,29 @@
+let a : int = 15 ;
+fn temp(a : int, const b: int) -> int{
+	let m :double ;
+    const c :int = a+b;
+    let d :int;
+    let e :int;
+    15+12;
+    const k : int=1;
+    if a ==b {
+        if(c+d==e){
+            return 1;
+        }
+        else{
+            ;
+        }
+    }
+    else{
+        while(1){
+            const t : double= 15.64;
+        }
+    }
+    return;
+    
+}
+
+
+fn main() -> void{
+	
+}//const t : int= 15;
